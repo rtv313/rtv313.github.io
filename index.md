@@ -27,13 +27,13 @@
 * [DogDeck app for get info about a dog with photos](https://play.google.com/store/apps/details?id=com.rtv313.dogdeck&hl=en_US) [Github](https://github.com/rtv313/DogDeck)
 
 ### Web 
-* [Blend Game StartUp Project ](https://www.youtube.com/watch?v=NLR7verC6w0) and [Project Tutorials] (https://www.youtube.com/channel/UCelDYCIzNxbOvSeHpTLMixg/videos)
+* [Blend Game StartUp Project ](https://www.youtube.com/watch?v=NLR7verC6w0) and [Blend Game Tutorials](https://www.youtube.com/channel/UCelDYCIzNxbOvSeHpTLMixg/videos)
 * [Web app for small bakery business](https://github.com/rtv313/BakeryOrderSystem)
 * [Web-Administration app for small business](https://bitbucket.org/rtv313isc/consultorioopticaadmin/src/master/)
 * [Web App for NGO Certification](https://onedrive.live.com/?authkey=%21AALHW5dL206PJqk&cid=1A350027127B9C08&id=1A350027127B9C08%211013&parId=root&o=OneUp)
 
 ### Video Games
-* [Master Degree Video Game Nanocalypse](https://github.com/rtv313/NanoCalypse) and [Development Video] (https://rtv313isc.wixsite.com/portafolio)
+* [Master Degree Video Game Nanocalypse](https://github.com/rtv313/NanoCalypse) and [Development Video](https://rtv313isc.wixsite.com/portafolio)
 * [Stand Together video game  for indie contest](https://github.com/rtv313/StandTogheter)
 * [AI for car control](https://github.com/rtv313/FuzzyLogic-ReactiveAgents)
 * [Zork video game ](https://github.com/rtv313/ZorkGame)
