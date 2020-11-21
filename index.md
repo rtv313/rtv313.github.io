@@ -22,24 +22,24 @@
 * [Logistic regression for Titanic](https://www.kaggle.com/raultrevino/logistic-regression-titanic)
 
 ### Mobile 
-* [Android App for Bakery Administration](https://github.com/rtv313/AndroidBakeryApp)
+* [Android App for Bakery Administration](https://github.com/rtv313/AndroidBakeryApp) and [Screenshots](https://docs.google.com/document/d/1qKwGE2YFUt21QhsY9TtRukvv0yIapVfGksXbqCPcJZo/edit)
 * [Kinwin app for Football Matches](https://play.google.com/store/apps/details?id=com.expandit.kinwin&hl=en_US)
 * [DogDeck app for get info about a dog with photos](https://play.google.com/store/apps/details?id=com.rtv313.dogdeck&hl=en_US) [Github](https://github.com/rtv313/DogDeck)
 
 ### Web 
-* Blend Game StartUp Project 
-* Web app for small bakery business
-* Web-Administration app for small business
-* Web App for NGO
+* [Blend Game StartUp Project ](https://www.youtube.com/watch?v=NLR7verC6w0) and [Project Tutorials] (https://www.youtube.com/channel/UCelDYCIzNxbOvSeHpTLMixg/videos)
+* [Web app for small bakery business](https://github.com/rtv313/BakeryOrderSystem)
+* [Web-Administration app for small business](https://bitbucket.org/rtv313isc/consultorioopticaadmin/src/master/)
+* [Web App for NGO Certification](https://onedrive.live.com/?authkey=%21AALHW5dL206PJqk&cid=1A350027127B9C08&id=1A350027127B9C08%211013&parId=root&o=OneUp)
 
 ### Video Games
-* Master Degree Video Game Nanocalypse
-* Stand Together for video game contest
-* AI for car control
-* Zork video game 
+* [Master Degree Video Game Nanocalypse](https://github.com/rtv313/NanoCalypse) and [Development Video] (https://rtv313isc.wixsite.com/portafolio)
+* [Stand Together video game  for indie contest](https://github.com/rtv313/StandTogheter)
+* [AI for car control](https://github.com/rtv313/FuzzyLogic-ReactiveAgents)
+* [Zork video game ](https://github.com/rtv313/ZorkGame)
 
 ### Coding Challenges / Interview Exercises
-* Python Cracking the code interview + Code challenges
-* Java Cracking the code interview + Code challenges
+* [Python Cracking the code interview + Code challenges](https://github.com/rtv313/CrackindCodeInterview)
+* [Java Cracking the code interview + Code challenges](https://github.com/rtv313/CrackingTheCodeJavaVersion/tree/master/src)
 
 
