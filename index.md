@@ -1,8 +1,8 @@
 ## Welcome to my GitHUB page and portfolio here you can see my projects
 
 ### Machine Learning / AI
-* Neural Network from Scratch with JAVA
-* Kohonen Neural Network from Scratch witj JAVA
+* [Neural Network from Scratch with JAVA][https://github.com/rtv313/NeuralNetwork]
+* Kohonen Neural Network from Scratch with JAVA
 * Reinforcement Learning Agent for Atari Space Invaders
 * Convolutional Nueral Network for classify dogs breeds 
 * Convolutional Neural Network for predict cat or dog
