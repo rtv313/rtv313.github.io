@@ -26,7 +26,7 @@
 ### Mobile 
 * [Android App for Bakery Administration](https://github.com/rtv313/AndroidBakeryApp)
 * [Kinwin app for Football Matches](https://play.google.com/store/apps/details?id=com.expandit.kinwin&hl=en_US)
-* [DogDeck app for get info about a dog with photos](https://play.google.com/store/apps/details?id=com.rtv313.dogdeck&hl=en_US) [Github](https://github.com/rtv313/DogDeck)
+* [DogDeck app for get info about a dog with photos](https://play.google.com/store/apps/details?id=com.rtv313.dogdeck&hl=en_US) and the [Github](https://github.com/rtv313/DogDeck)
 
 ### Web 
 * [Blend Game StartUp Project ](https://www.youtube.com/watch?v=NLR7verC6w0) and [Blend Game Tutorials](https://www.youtube.com/channel/UCelDYCIzNxbOvSeHpTLMixg/videos)
