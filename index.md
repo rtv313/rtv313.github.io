@@ -35,7 +35,7 @@
 * [Web App for NGO Certification](https://onedrive.live.com/?authkey=%21AALHW5dL206PJqk&cid=1A350027127B9C08&id=1A350027127B9C08%211013&parId=root&o=OneUp)
 
 ### Video Games
-* [Master Degree Video Game Nanocalypse](https://github.com/rtv313/NanoCalypse) and [Development Video](https://rtv313isc.wixsite.com/portafolio)
+* [Master Degree Video Game Nanocalypse](https://github.com/rtv313/NanoCalypse) and [Development Video](https://www.youtube.com/watch?v=uWyZ_aRKyns&feature=youtu.be)
 * [Stand Together video game  for indie contest](https://github.com/rtv313/StandTogheter)
 * [AI for car control](https://github.com/rtv313/FuzzyLogic-ReactiveAgents)
 * [Zork video game ](https://github.com/rtv313/ZorkGame)
