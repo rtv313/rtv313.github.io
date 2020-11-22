@@ -22,7 +22,7 @@
 * [Logistic regression for Titanic](https://www.kaggle.com/raultrevino/logistic-regression-titanic)
 
 ### Mobile 
-* [Android App for Bakery Administration](https://github.com/rtv313/AndroidBakeryApp) and [Screenshots](https://docs.google.com/document/d/1qKwGE2YFUt21QhsY9TtRukvv0yIapVfGksXbqCPcJZo/edit)
+* [Android App for Bakery Administration](https://github.com/rtv313/AndroidBakeryApp)
 * [Kinwin app for Football Matches](https://play.google.com/store/apps/details?id=com.expandit.kinwin&hl=en_US)
 * [DogDeck app for get info about a dog with photos](https://play.google.com/store/apps/details?id=com.rtv313.dogdeck&hl=en_US) [Github](https://github.com/rtv313/DogDeck)
 
