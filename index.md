@@ -1,4 +1,6 @@
-## Welcome to my page and portfolio here you can see my projects across diferent Repositories
+# Welcome to my page and portfolio here you can see my projects across diferent Repositories
+
+[LinkedIn](https://www.linkedin.com/in/raul-trevi%C3%B1o-b18926102/)
 
 ### Machine Learning / AI
 * [Neural Network from Scratch with JAVA](https://github.com/rtv313/NeuralNetwork)
